@@ -1,18 +1,21 @@
-package com.tnsif.encapusle;
 
-public class Encapusle {
+	package com.tnsif.encapusle;
 
-	String color ="blue";
-	int seats =4;
-	String company ="TATA";
-	
-	public void start() {
-		System.out.println("the car has started");
+	public class Encapusle {
+
+		String color ="blue";
+		int seats =4;
+		String company ="TATA";
+		
+		public void start() {
+			System.out.println("the car has started");
+		}
+		
+		public void stop() {
+			System.out.println("the car has sttoped");
+		}
+		
+
 	}
-	
-	public void stop() {
-		System.out.println("the car has sttoped");
-	}
-	
 
-}
+
