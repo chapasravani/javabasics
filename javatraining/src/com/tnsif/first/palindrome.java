@@ -27,7 +27,11 @@ public class palindrome {
             }
         }
 
+<<<<<<< HEAD
        
+=======
+        
+>>>>>>> branch 'master' of https://github.com/chapasravani/javabasics.git
         if (isPalindrome) {
             System.out.println(original + " is a Palindrome.");
         } else {
@@ -40,5 +44,6 @@ public class palindrome {
 
 
 	}
+
 
 
